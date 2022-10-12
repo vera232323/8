@@ -1,0 +1,15 @@
+C:\Users\Вера Королева\Desktop\ДомЗа8\obj\Debug\net6.0\ДомЗа8.csproj.AssemblyReference.cache
+C:\Users\Вера Королева\Desktop\ДомЗа8\obj\Debug\net6.0\ДомЗа8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вера Королева\Desktop\ДомЗа8\obj\Debug\net6.0\ДомЗа8.AssemblyInfoInputs.cache
+C:\Users\Вера Королева\Desktop\ДомЗа8\obj\Debug\net6.0\ДомЗа8.AssemblyInfo.cs
+C:\Users\Вера Королева\Desktop\ДомЗа8\obj\Debug\net6.0\ДомЗа8.csproj.CoreCompileInputs.cache
+C:\Users\Вера Королева\Desktop\ДомЗа8\bin\Debug\net6.0\ДомЗа8.exe
+C:\Users\Вера Королева\Desktop\ДомЗа8\bin\Debug\net6.0\ДомЗа8.deps.json
+C:\Users\Вера Королева\Desktop\ДомЗа8\bin\Debug\net6.0\ДомЗа8.runtimeconfig.json
+C:\Users\Вера Королева\Desktop\ДомЗа8\bin\Debug\net6.0\ДомЗа8.dll
+C:\Users\Вера Королева\Desktop\ДомЗа8\bin\Debug\net6.0\ДомЗа8.pdb
+C:\Users\Вера Королева\Desktop\ДомЗа8\obj\Debug\net6.0\ДомЗа8.dll
+C:\Users\Вера Королева\Desktop\ДомЗа8\obj\Debug\net6.0\refint\ДомЗа8.dll
+C:\Users\Вера Королева\Desktop\ДомЗа8\obj\Debug\net6.0\ДомЗа8.pdb
+C:\Users\Вера Королева\Desktop\ДомЗа8\obj\Debug\net6.0\ДомЗа8.genruntimeconfig.cache
+C:\Users\Вера Королева\Desktop\ДомЗа8\obj\Debug\net6.0\ref\ДомЗа8.dll
